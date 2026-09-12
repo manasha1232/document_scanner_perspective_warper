@@ -1,0 +1,40 @@
+{
+    "filename": "sample_receipt_tilted.jpg",
+    "input_dimensions": {
+        "width": 1280,
+        "height": 960
+    },
+    "scanned_dimensions": {
+        "width": 404,
+        "height": 556
+    },
+    "aspect_ratio": 0.7266,
+    "corners": {
+        "top_left": [
+            428.4,
+            187.2
+        ],
+        "top_right": [
+            798.0,
+            238.8
+        ],
+        "bottom_right": [
+            764.4,
+            794.4
+        ],
+        "bottom_left": [
+            366.0,
+            723.6
+        ]
+    },
+    "processing_time_sec": 0.0697,
+    "output_files": {
+        "warped": "output\\sample_receipt_tilted_warped.jpg",
+        "scanned_bw": "output\\sample_receipt_tilted_scanned_bw.jpg",
+        "comparison": "output\\sample_receipt_tilted_comparison.jpg",
+        "original_warped": "output\\sample_receipt_tilted_original_warped.jpg",
+        "bw_scanned": "output\\sample_receipt_tilted_bw_scanned.jpg",
+        "color_enhanced": "output\\sample_receipt_tilted_color_enhanced.jpg",
+        "grayscale": "output\\sample_receipt_tilted_grayscale.jpg"
+    }
+}
